@@ -11,3 +11,5 @@ recently available (RESNET, SEGNET), this method greater advantage providing res
 computational time.
 
 Key terms: Road extraction, Building extraction, Convolutional Neural Network, U-Net, Convolutional layer, Max pooling layer, Epoch.
+
+You can find the full report under the folder Arasur_Subramanian_Thesis_Report.pdf
