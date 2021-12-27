@@ -1,4 +1,4 @@
-# ISRO_Proj
+# ISRO_Proj SEGMENTATION OF STREETS AND BUILDINGS USING U-NET FROM SATELLITE IMAGES.
 Over a hundred thousand people are dying in road accidents in India every year among those30% of accidents take place due to roads and buildings which are constructed without following 
 any government regulations. To minimize road accidents we need to identify the buildings which are illegally constructed (without following any government regulations) on the 
 roadside. The aim of this paper is divided into two parts. Firstly, segmenting the roads and buildings from the satellite image and secondly, finding out the illegal construction of roads 
